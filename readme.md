@@ -7,11 +7,11 @@ The Little Lemon booking system is a project designed to help users manage and b
 Main page of the website.
 
 ## Screenshot 2: Booking Page
-![Booking Page](img/Screenshot-2.png)
+![Booking Page](img/Screenshot-3.png)
 This is the main booking page where users can view available appointments and make a reservation.
 
 ## Screenshot 3: Reservations Page
-![Appointment Management](img/Screenshot-3.png)
+![Appointment Management](img/Screenshot-2.png)
 This is the reservations page where users can view all reservations.
 
 
