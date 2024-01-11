@@ -1,4 +1,4 @@
-# Meta Frontend Developer Capston Project
+# Meta Frontend Developer Capstone Project by Django
 
 # Little Lemon Booking System
 The Little Lemon booking system is a project designed to help users manage and book appointments for their business. This project was created as part of the Meta Backend Developer Certificate program.
